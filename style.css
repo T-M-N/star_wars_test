@@ -1,0 +1,12 @@
+body{
+    background:#000000;
+    color:#ffffff;
+}
+
+img{
+    max-width: 50rem;
+}
+
+h2{
+    color:red;
+}
