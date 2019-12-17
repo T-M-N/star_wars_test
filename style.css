@@ -1,12 +1,13 @@
-body{
-    background:#000000;
-    color:#ffffff;
+body {
+    background-image: url(./img/star-wars-ascenso-skywalker_0.jpg);
+    background-size:cover;
+    color: #ffffff;
 }
 
-img{
+img {
     max-width: 50rem;
 }
 
-h2{
-    color:red;
+h2 {
+    color: red;
 }
